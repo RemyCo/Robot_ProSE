@@ -1,0 +1,7 @@
+#Mon Jun 17 10:06:46 CEST 2019
+base.0=/home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/out

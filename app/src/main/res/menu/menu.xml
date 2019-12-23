@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/parameters"
+        android:title="Paramètres">
+        <menu>
+            <item
+                android:id="@+id/buttonCommands"
+                android:title="Contrôler par flèches directionnelles (Pilotage)" />
+            <item
+                android:id="@+id/joystick"
+                android:title="Contrôler par joystick (Pilotage)" />
+            <item
+                android:id="@+id/connectionDelay"
+                android:title="Changer le délai de connexion" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/documentation"
+        android:title="Documentation" />
+    <item
+        android:id="@+id/about"
+        android:title="A propos" />
+</menu>

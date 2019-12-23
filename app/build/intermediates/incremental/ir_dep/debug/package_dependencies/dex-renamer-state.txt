@@ -1,0 +1,4 @@
+#Wed Jun 12 14:28:36 CEST 2019
+base.0=/home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

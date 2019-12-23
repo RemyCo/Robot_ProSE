@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/79c723156dee57cd483a289f553d2b6d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/aa61bac237dc5fc74a1608553bb9bda4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/d23b3bea15818001a7fc05422ec4bfd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/4e97c878a3a83f9a2bbf1c9eaeaf622d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/remy/.gradle/caches/transforms-2/files-2.1/c974efdf507f9ba3b1c527013815c0e4/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/b513c01cd767bbe4ca86b8278fa812d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/53a608f509f05383df20dada8293accf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/ffd9695aad064e37e7e062011964f34d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/10efc466139b77411664a1a95eb40919/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/8242aafb2cf3988854e43e3145e959c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/dbe0c4724c6cbb6acc22ab41897ef152/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/10732f65ee8354d38cfc065213ada144/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/be16df3c72765c69f1260d974ebf4eb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/f949cba0071c5948f8d47ea5addaa9a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/828764e3ebb1181c76a06e153712bcbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/57511c526b5244ca1299323fb19740fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/36afba887f63f65b5eb3c41032ab7bd5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/6ffb89d64cd9f6665ee152d1e2dcf1cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/585ef92561dfa9c03bf7d0cf9b97f8a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/3b84239b6fa46dcb0f657b337bd2e7a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/8764197740623ef7f17d6d35659ddfe7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/597131aafa2def8cefbe620c5423cc96/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e6367093a952b53a34776438e456911a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/aeae87608f32998528b171e881e6b42f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/14fcd3c6e675e3787664e6e07bc936d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/37700a5211f5d1de28a11ddcdf2b26a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/b7428bebb46cd4848ae4ee78341d9ea3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/10305fc04bac7839bea59a6835b9449d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/8a2badab77e4401b8e606cebdfecc298/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/7e4eda827b50483a96815d47fb003c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/07ff46e340b76f102ef173dbda32f101/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/55362b47fe7ba3fac122a380de9f4e78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/ec7f9024740afa84870fdd1f34cc5fa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e8645abe6e6ac851ab910380a87e1ffc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/d9e553558f1b264bcae1a07fabdf9134/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/a2290e1676c3e446ed34432c5d846fa5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [com.android.support:design:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/79c723156dee57cd483a289f553d2b6d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/79c723156dee57cd483a289f553d2b6d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/remy/.gradle/caches/transforms-2/files-2.1/c974efdf507f9ba3b1c527013815c0e4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/remy/.gradle/caches/transforms-2/files-2.1/c974efdf507f9ba3b1c527013815c0e4/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/597131aafa2def8cefbe620c5423cc96/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/597131aafa2def8cefbe620c5423cc96/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e6367093a952b53a34776438e456911a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e6367093a952b53a34776438e456911a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/597131aafa2def8cefbe620c5423cc96/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:10:9-44
+	android:allowBackup
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:14:9-40
+activity#fr.eseo.i2.prose.ea1.whereisrob.gui.GUIActivity
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:15:9-26:20
+	android:screenOrientation
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:18:13-50
+	android:label
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:16:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/79c723156dee57cd483a289f553d2b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/79c723156dee57cd483a289f553d2b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/aa61bac237dc5fc74a1608553bb9bda4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/aa61bac237dc5fc74a1608553bb9bda4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/d23b3bea15818001a7fc05422ec4bfd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/d23b3bea15818001a7fc05422ec4bfd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/4e97c878a3a83f9a2bbf1c9eaeaf622d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/4e97c878a3a83f9a2bbf1c9eaeaf622d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/remy/.gradle/caches/transforms-2/files-2.1/c974efdf507f9ba3b1c527013815c0e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/remy/.gradle/caches/transforms-2/files-2.1/c974efdf507f9ba3b1c527013815c0e4/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/b513c01cd767bbe4ca86b8278fa812d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/b513c01cd767bbe4ca86b8278fa812d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/53a608f509f05383df20dada8293accf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/53a608f509f05383df20dada8293accf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/ffd9695aad064e37e7e062011964f34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/ffd9695aad064e37e7e062011964f34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/10efc466139b77411664a1a95eb40919/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/10efc466139b77411664a1a95eb40919/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/8242aafb2cf3988854e43e3145e959c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/8242aafb2cf3988854e43e3145e959c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/dbe0c4724c6cbb6acc22ab41897ef152/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/dbe0c4724c6cbb6acc22ab41897ef152/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/10732f65ee8354d38cfc065213ada144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/10732f65ee8354d38cfc065213ada144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/be16df3c72765c69f1260d974ebf4eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/be16df3c72765c69f1260d974ebf4eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/f949cba0071c5948f8d47ea5addaa9a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/f949cba0071c5948f8d47ea5addaa9a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/828764e3ebb1181c76a06e153712bcbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/828764e3ebb1181c76a06e153712bcbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/57511c526b5244ca1299323fb19740fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/57511c526b5244ca1299323fb19740fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/36afba887f63f65b5eb3c41032ab7bd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/36afba887f63f65b5eb3c41032ab7bd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/6ffb89d64cd9f6665ee152d1e2dcf1cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/6ffb89d64cd9f6665ee152d1e2dcf1cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/585ef92561dfa9c03bf7d0cf9b97f8a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/585ef92561dfa9c03bf7d0cf9b97f8a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/3b84239b6fa46dcb0f657b337bd2e7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/3b84239b6fa46dcb0f657b337bd2e7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/8764197740623ef7f17d6d35659ddfe7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/8764197740623ef7f17d6d35659ddfe7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/597131aafa2def8cefbe620c5423cc96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/597131aafa2def8cefbe620c5423cc96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e6367093a952b53a34776438e456911a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e6367093a952b53a34776438e456911a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/aeae87608f32998528b171e881e6b42f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/aeae87608f32998528b171e881e6b42f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/14fcd3c6e675e3787664e6e07bc936d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/14fcd3c6e675e3787664e6e07bc936d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/37700a5211f5d1de28a11ddcdf2b26a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/37700a5211f5d1de28a11ddcdf2b26a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/b7428bebb46cd4848ae4ee78341d9ea3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/b7428bebb46cd4848ae4ee78341d9ea3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/10305fc04bac7839bea59a6835b9449d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/10305fc04bac7839bea59a6835b9449d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/8a2badab77e4401b8e606cebdfecc298/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/8a2badab77e4401b8e606cebdfecc298/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/7e4eda827b50483a96815d47fb003c7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/7e4eda827b50483a96815d47fb003c7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/07ff46e340b76f102ef173dbda32f101/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/07ff46e340b76f102ef173dbda32f101/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/55362b47fe7ba3fac122a380de9f4e78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/55362b47fe7ba3fac122a380de9f4e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/ec7f9024740afa84870fdd1f34cc5fa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/ec7f9024740afa84870fdd1f34cc5fa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e8645abe6e6ac851ab910380a87e1ffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/e8645abe6e6ac851ab910380a87e1ffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/d9e553558f1b264bcae1a07fabdf9134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/d9e553558f1b264bcae1a07fabdf9134/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/a2290e1676c3e446ed34432c5d846fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/remy/.gradle/caches/transforms-2/files-2.1/a2290e1676c3e446ed34432c5d846fa5/AndroidManifest.xml:20:5-44
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		ADDED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+		INJECTED from /home/remy/Documents/Option_SE/projet_ProSE/Depot/code/production/android/trunk/WhereIsRob/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/remy/.gradle/caches/transforms-2/files-2.1/a198dce7800e414f930e074c50637e83/AndroidManifest.xml:24:13-83
